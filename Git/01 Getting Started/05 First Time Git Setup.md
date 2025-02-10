@@ -16,7 +16,7 @@ It’s important to set your user name and email address because every Git commi
 
 ```bash
 $ git config --global user.name "John Doe"
-$ git config --global user.email
+$ git config --global user.email "John_Doe@gmail.com"
 ```
 
 ## Checking Your Settings
